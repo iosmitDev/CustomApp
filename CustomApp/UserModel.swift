@@ -9,5 +9,5 @@ import Foundation
 
 struct UserModel {
     
-    
+    let name : String
 }
