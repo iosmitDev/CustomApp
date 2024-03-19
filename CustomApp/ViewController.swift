@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("code chnages.")
         printContent("After uploade changes in development branch")
+        print("uploaded on remote repo")
     }
 
 
